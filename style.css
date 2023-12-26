@@ -1,0 +1,10 @@
+*{
+    text-transform: capitalize;
+    text-align: center !important;
+  }
+
+#card{
+    height: 500px !important;
+    background-color: bisque;
+
+}
